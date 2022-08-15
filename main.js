@@ -8830,7 +8830,7 @@ var app = (function () {
             {
               url: "https://soundcloud.com/ashnikko/stupid-feat-yung-baby-tate",
               answer: "Ashnikko - STUPID (feat. Yung Baby Tate)",
-              song: "Ashnikko, Yung Baby Tate"
+              song: "IIABTITBB"
             },
             {
               url: "https://soundcloud.com/vgmplanet/18-warming-up-with-doc?in=vgmplanet/sets/mike-tysons-punch-out-ost",

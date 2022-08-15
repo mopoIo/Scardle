@@ -3665,6 +3665,7 @@ var app = (function () {
         c() {
           (n = w("div")),
             (r = w("a")),
+        }
         m(e, o) {
           g(e, n, o), p(n, r), s || ((i = S(r, "click", t[0])), (s = !0));
         },

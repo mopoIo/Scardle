@@ -3910,9 +3910,9 @@ var app = (function () {
       },
       Jt = [
         "Better luck next time bozo", // FAILED
-        "SLAY", // First try
-        "A classic game, a classic tune",
-        "Only iron players have taken this many guesses",
+        "SLAY!!!", // First try
+        "Not on your first try, so bad!",
+        "I know that one!",
         "You got me scared for a second",
         "Took you long enough",
         "The song must have looped by this point", // Sixth try
@@ -8619,7 +8619,7 @@ var app = (function () {
       "Metroid Prime",
       "Pokemon X/Y",
       "Super Mario RPG: Legend of the Seven Stars",
-      "STUPID (feat. Yung Baby Tate)",
+      "Ashnikko - STUPID (feat. Yung Baby Tate)",
       "Mike Tyson's Punch-Out!!",
       "Professor Layton and the Curious Village",
       "Ninja Gaiden",
@@ -8846,7 +8846,7 @@ var app = (function () {
             },
             {
               url: "https://soundcloud.com/ashnikko/stupid-feat-yung-baby-tate",
-              answer: "STUPID (feat. Yung Baby Tate)",
+              answer: "Ashnikko - STUPID (feat. Yung Baby Tate)",
               song: "Ashnikko, Yung Baby Tate"
             },
             {

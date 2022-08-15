@@ -8799,7 +8799,7 @@ var app = (function () {
 	  "Chance The Rapper - Cocoa Butter Kisses (feat. Vic Mensa & Twista)",
 	  "You Know You Like It (DJ Snake Remix)",
 	  "Ruff Squad - Together (feat. Wiley)",
-	  "Wiley - Wearing My Rolex (Craig Prince & Paul Lawrence Remix)",
+	  "Wiley - Wearing My Rolex (Craig Prince & Paul Lawrence Remix)",   //other
 	  "Alanis Morisette - Head over Feet - 2015 Remaster"
       ]),
       On = {
@@ -9389,64 +9389,254 @@ var app = (function () {
               song: "From 🥴 (Spotify)"
             },
 			{
-              url: "",
-              answer: "",
+              url: "https://soundcloud.com/tyler-sewell-464936745/sl-tropical",
+              answer: "SL - Tropical",
               song: "From 3Head (Spotify)"
             },
 			{
-              url: "",
-              answer: "",
+              url: "https://soundcloud.com/adelemusic/chasing-pavements",
+              answer: "Adele - Chasing Pavements",
               song: "From brain worms (Spotify)"
             },
 			{
-              url: "",
-              answer: "",
+              url: "https://soundcloud.com/gorillaz/feel-good-inc-album-version",
+              answer: "Gorillaz - Feel Good Inc.",
               song: "From tbc (Spotify)"
             },
 			{
-              url: "",
-              answer: "",
+              url: "https://soundcloud.com/jonnybuzz/skepta-zinc-dynamite-jonny-buzz-bad-boy-wile-out-mash-up-remix",
+              answer: "Skepta, DJ Zinc, Ms Dynamite, Vs Jonny Buzz - Bad Boy Wile Out Mash Up BIG Remix",
               song: "From 🔁 (SoundCloud)"
             },
 			{
-              url: "",
-              answer: "",
-              song: ""
+              url: "https://soundcloud.com/the-flying-lizards/money",
+              answer: "The Flying Lizards - Money",
+              song: "From <333 (Spotify)"
             },
 			{
-              url: "",
-              answer: "",
+              url: "https://soundcloud.com/ginuwine-official/so-anxious-album-version",
+              answer: "Ginuwine - So Anxious",
               song: "From 🥴 (Spotify)"
             },
 			{
-              url: "",
-              answer: "",
+              url: "https://soundcloud.com/awfultune/lvr-boy",
+              answer: "awfultune - Lvr Boy",
               song: "From sad boy hours (Spotify)"
             },
 			{
-              url: "",
-              answer: "",
+              url: "https://soundcloud.com/marinadiamandis/primadonna",
+              answer: "MARINA - Primadonna",
               song: "From IIABTITBB (Spotify)"
             },
 			{
-              url: "",
-              answer: "",
+              url: "https://soundcloud.com/melaniemartinezmusic/teachers-pet-1",
+              answer: "Melanie Martinez - Teacher's Pet",
               song: "From brain worms (Spotify)"
             },
 			{
-              url: "",
-              answer: "",
+              url: "https://soundcloud.com/francescabull/a-friend-in-need-top-cat-dj",
+              answer: "Top Cat - A Friend In Need (DJ Panik)",
+              song: "From 🔁 (SoundCloud)"
+            },
+			{
+              url: "https://soundcloud.com/elvissonymusic/suspicious-minds-3",
+              answer: "Elvis Presley - Suspicious Minds",
+              song: "From <333 (Spotify)"
+            },
+			{
+              url: "https://soundcloud.com/glassanimals/life-itself",
+              answer: "Glass Animals - Life Itself",
+              song: "From tbc (Spotify)"
+            },
+			{
+              url: "https://soundcloud.com/beyonce/all-night",
+              answer: "Beyoncé - All Night",
+              song: "From 🥴 (Spotify)"
+            },
+			{
+              url: "https://soundcloud.com/curtisgabrielmusic/curtis-gabriel-semedo-some",
+              answer: "Curtis Gabriel, Semedo - Some People Say (Preview)",
+              song: "From 🔁 (SoundCloud)"
+            },
+			{
+              url: "https://soundcloud.com/yael-wolfenson/ella-fitzgerald-louis",
+              answer: "Cass Elliot - Dream A Little Dream Of Me",
+              song: "From <333 (Spotify)"
+            },
+			{
+              url: "https://soundcloud.com/noisettes-official/dont-upset-the-rhythm-go-7",
+              answer: "Noisettes - Don't Upset The Rhythm (Go Baby Go)",
+              song: "From 3Head (Spotify)"
+            },
+			{
+              url: "https://soundcloud.com/crystalfighters/11-follow",
+              answer: "Crystal Fighters - Follow",
+              song: "From tbc (Spotify)"
+            },
+			{
+              url: "https://soundcloud.com/paramore/decode-1",
+              answer: "Paramore - Decode - Twilight Soundtrack Version",
+              song: "From brain worms (Spotify)"
+            },
+			{
+              url: "https://soundcloud.com/celestewaite/strange-1",
+              answer: "Celeste - Strange",
+              song: "From sad boy hours (Spotify)"
+            },
+			{
+              url: "https://soundcloud.com/paulius-gylys/nnci-and-phoebe-notorious-ft",
+              answer: "Nanci and Phoebe - Notorious (feat. Congo Natty)",
+              song: "From 🔁 (SoundCloud)"
+            },
+			{
+              url: "https://soundcloud.com/amalaofficial/streets",
+              answer: "Doja Cat - Streets",
+              song: "From 🥴 (Spotify)"
+            },
+			{
+              url: "https://soundcloud.com/redlight-uk/get-out-my-head",
+              answer: "Redlight - Get Out My Head",
+              song: "From tbc (Spotify)"
+            },
+			{
+              url: "https://soundcloud.com/lana-del-rey/pretty-when-you-cry-1",
+              answer: "Lana Del Rey - Pretty When You Cry",
+              song: "From brain worms (Spotify)"
+            },
+			{
+              url: "https://soundcloud.com/qotsa/make-it-wit-chu-album-version",
+              answer: "Queens of the Stone Age - Make It Wit Chu",
+              song: "From 🥴 (Spotify)"
+            },
+			{
+              url: "https://soundcloud.com/noone_nowhere/juliet-cavetown",
+              answer: "Cavetown - Juliet",
+              song: "From sad boy hours (Spotify)"
+            },
+			{
+              url: "https://soundcloud.com/sparkiegal/arctic-monkeys-brainstorm",
+              answer: "Arctic Monkeys - Brainstorm",
+              song: "From tbc (Spotify)"
+            },
+			{
+              url: "https://soundcloud.com/chancetherapper/cocoa-butter-kisses-ft-vic",
+              answer: "Chance The Rapper - Cocoa Butter Kisses (feat. Vic Mensa & Twista)",
+              song: "From 🔁 (SoundCloud)"
+            },
+			{
+              url: "https://soundcloud.com/thesupremes/baby-love-juke-box-single-1",
+              answer: "The Supremes - Baby Love",
+              song: "From <333 (Spotify)"
+            },
+			{
+              url: "https://soundcloud.com/fleetwoodmacofficial/the-chain-remastered",
+              answer: "Fleetwood Mac - The Chain",
+              song: "From 🥴 (Spotify)"
+            },
+			{
+              url: "https://soundcloud.com/nickiminaj/starships-1",
+              answer: "Nicki Minaj - Starships",
+              song: "From tbc (Spotify)"
+            },
+			{
+              url: "https://soundcloud.com/craigprice14/wiley-wearing-my-rolex-phaze-3",
+              answer: "Wiley - Wearing My Rolex (Craig Prince & Paul Lawrence Remix)",
+              song: "From 🔁 (SoundCloud)"
+            },
+			{
+              url: "https://soundcloud.com/the-temptations/my-girl-1",
+              answer: "The Temptations - My Girl",
+              song: "From <333 (Spotify)"
+            },
+			{
+              url: "https://soundcloud.com/fionaapple/i-want-you-to-love-me",
+              answer: "Fiona Apple - I Want You To Love Me",
+              song: "From brain worms (Spotify)"
+            },
+			{
+              url: "https://soundcloud.com/reginaspektor/hero",
+              answer: "Regina Spektor - Hero",
+              song: "From sad boy hours (Spotify)"
+            },
+			{
+              url: "https://soundcloud.com/defectedrecords/camelphat-elderbrook-cola-2",
+              answer: "CamelPhat, Elderbrook - Cola",
+              song: "From tbc (Spotify)"
+            },
+			{
+              url: "https://soundcloud.com/beyonce/drunk-in-love",
+              answer: "Beyoncé - Drunk In Love (feat. Jay-Z)",
+              song: "From 🥴 (Spotify)"
+            },
+			{
+              url: "https://soundcloud.com/rizzlekicks/down-with-the-trumpets-1",
+              answer: "Rizzle Kicks - Down With The Trumpets",
+              song: "From 3Head (Spotify)"
+            },
+			{
+              url: "https://soundcloud.com/alunageorge/youknowyoulikeit-djsnake",
+              answer: "You Know You Like It (DJ Snake Remix)",
+              song: "From 🔁 (SoundCloud)"
+            },
+			{
+              url: "https://soundcloud.com/dionnewarwickofficial/dionne-warwick-i-say-a-little",
+              answer: "Dionne Warwick - I Say A Little Prayer",
+              song: "From <333 (Spotify)"
+            },
+			{
+              url: "https://soundcloud.com/djfreshuk/dj-fresh-ft-sian-evans",
+              answer: "DJ Fresh - Louder (feat. Sian Evans)",
+              song: "From tbc (Spotify)"
+            },
+			{
+              url: "https://soundcloud.com/riismusic/the-artful-dodger-re-rewind",
+              answer: "The Artful Dodger - Re-Rewind (The Crowd Say Bo Selecta) (Riis Groove Edit)",
+              song: "From 🔁 (SoundCloud)"
+            },
+			{
+              url: "https://soundcloud.com/theweeknd/stargirl-interlude-1",
+              answer: "The Weeknd, Lana Del Rey - Starlight Interlude",
+              song: "From 🥴 (Spotify)"
+            },
+			{
+              url: "https://soundcloud.com/alexxbruni/alex-g-advice",
+              answer: "Alex G - Advice",
+              song: "From sad boy hours (Spotify)"
+            },
+			{
+              url: "https://soundcloud.com/the-mamas-the-papas/snowqueen-of-texas-album",
+              answer: "The Mamas & The Papas - Snowqueen Of Texas",
+              song: "From <333 (Spotify)"
+            },
+			{
+              url: "https://soundcloud.com/the-shapeshifters-official/lolas-theme-1",
+              answer: "The Shapeshifters - Lola's Theme",
+              song: "From tbc (Spotify)"
+            },
+			{
+              url: "https://soundcloud.com/the-dixie-cups/chapel-of-love-3",
+              answer: "The Dixie Cups - Chapel Of Love",
+              song: "From <333 (Spotify)"
+            },
+			{
+              url: "https://soundcloud.com/redlight-uk/get-out-my-head",
+              answer: "Redlight UK - Get Out My Head",
               song: "From 🔁 (SoundCloud)"
             },
 			{
               url: "",
               answer: "",
-              song: ""
+              song: "From <333 (Spotify)"
             },
 			{
               url: "",
               answer: "",
               song: "From tbc (Spotify)"
+            },
+			{
+              url: "",
+              answer: "",
+              song: "From sad boy hours (Spotify)"
             },
 			{
               url: "",
@@ -9457,11 +9647,6 @@ var app = (function () {
               url: "",
               answer: "",
               song: "From 🔁 (SoundCloud)"
-            },
-			{
-              url: "",
-              answer: "",
-              song: ""
             },
 			{
               url: "",
@@ -9471,17 +9656,12 @@ var app = (function () {
 			{
               url: "",
               answer: "",
-              song: "From tbc (Spotify)"
-            },
-			{
-              url: "",
-              answer: "",
-              song: "From brain worms (Spotify)"
-            },
-			{
-              url: "",
-              answer: "",
               song: "From sad boy hours (Spotify)"
+            },
+			{
+              url: "",
+              answer: "",
+              song: "From <333 (Spotify)"
             },
 			{
               url: "",
@@ -9501,57 +9681,12 @@ var app = (function () {
 			{
               url: "",
               answer: "",
-              song: "From brain worms (Spotify)"
-            },
-			{
-              url: "",
-              answer: "",
-              song: "From 🥴 (Spotify)"
-            },
-			{
-              url: "",
-              answer: "",
-              song: "From sad boy hours (Spotify)"
-            },
-			{
-              url: "",
-              answer: "",
-              song: "From tbc (Spotify)"
+              song: "From <333 (Spotify)"
             },
 			{
               url: "",
               answer: "",
               song: "From 🔁 (SoundCloud)"
-            },
-			{
-              url: "",
-              answer: "",
-              song: ""
-            },
-			{
-              url: "",
-              answer: "",
-              song: "From 🥴 (Spotify)"
-            },
-			{
-              url: "",
-              answer: "",
-              song: "From tbc (Spotify)"
-            },
-			{
-              url: "",
-              answer: "",
-              song: "From 🔁 (SoundCloud)"
-            },
-			{
-              url: "",
-              answer: "",
-              song: ""
-            },
-			{
-              url: "",
-              answer: "",
-              song: "From brain worms (Spotify)"
             },
 			{
               url: "",
@@ -9567,6 +9702,26 @@ var app = (function () {
               url: "",
               answer: "",
               song: "From 🥴 (Spotify)"
+            },
+			{
+              url: "",
+              answer: "",
+              song: "From <333 (Spotify)"
+            },
+			{
+              url: "",
+              answer: "",
+              song: "From 🔁 (SoundCloud)"
+            },
+			{
+              url: "",
+              answer: "",
+              song: "From sad boy hours (Spotify)"
+            },
+			{
+              url: "",
+              answer: "",
+              song: "From <333 (Spotify)"
             },
 			{
               url: "",
@@ -9586,162 +9741,7 @@ var app = (function () {
 			{
               url: "",
               answer: "",
-              song: "From tbc (Spotify)"
-            },
-			{
-              url: "",
-              answer: "",
-              song: "From 🔁 (SoundCloud)"
-            },
-			{
-              url: "",
-              answer: "",
-              song: "From 🥴 (Spotify)"
-            },
-			{
-              url: "",
-              answer: "",
-              song: "From sad boy hours (Spotify)"
-            },
-			{
-              url: "",
-              answer: "",
-              song: ""
-            },
-			{
-              url: "",
-              answer: "",
-              song: "From tbc (Spotify)"
-            },
-			{
-              url: "",
-              answer: "",
-              song: ""
-            },
-			{
-              url: "",
-              answer: "",
-              song: "From 🔁 (SoundCloud)"
-            },
-			{
-              url: "",
-              answer: "",
-              song: ""
-            },
-			{
-              url: "",
-              answer: "",
-              song: "From tbc (Spotify)"
-            },
-			{
-              url: "",
-              answer: "",
-              song: "From sad boy hours (Spotify)"
-            },
-			{
-              url: "",
-              answer: "",
-              song: "From 🥴 (Spotify)"
-            },
-			{
-              url: "",
-              answer: "",
-              song: "From 🔁 (SoundCloud)"
-            },
-			{
-              url: "",
-              answer: "",
-              song: "From 3Head (Spotify)"
-            },
-			{
-              url: "",
-              answer: "",
-              song: "From sad boy hours (Spotify)"
-            },
-			{
-              url: "",
-              answer: "",
-              song: ""
-            },
-			{
-              url: "",
-              answer: "",
-              song: "From 🥴 (Spotify)"
-            },
-			{
-              url: "",
-              answer: "",
-              song: "From 🔁 (SoundCloud)"
-            },
-			{
-              url: "",
-              answer: "",
-              song: "From tbc (Spotify)"
-            },
-			{
-              url: "",
-              answer: "",
-              song: ""
-            },
-			{
-              url: "",
-              answer: "",
-              song: "From 🔁 (SoundCloud)"
-            },
-			{
-              url: "",
-              answer: "",
-              song: "From sad boy hours (Spotify)"
-            },
-			{
-              url: "",
-              answer: "",
-              song: "From tbc (Spotify)"
-            },
-			{
-              url: "",
-              answer: "",
-              song: "From 🥴 (Spotify)"
-            },
-			{
-              url: "",
-              answer: "",
-              song: ""
-            },
-			{
-              url: "",
-              answer: "",
-              song: "From 🔁 (SoundCloud)"
-            },
-			{
-              url: "",
-              answer: "",
-              song: "From sad boy hours (Spotify)"
-            },
-			{
-              url: "",
-              answer: "",
-              song: ""
-            },
-			{
-              url: "",
-              answer: "",
-              song: "From 3Head (Spotify)"
-            },
-			{
-              url: "",
-              answer: "",
-              song: "From 🔁 (SoundCloud)"
-            },
-			{
-              url: "",
-              answer: "",
-              song: ""
-            },
-			{
-              url: "",
-              answer: "",
-              song: ""
+              song: "From <333 (Spotify)"
             },
 			{
               url: "",

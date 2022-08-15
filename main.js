@@ -8854,36 +8854,6 @@ var app = (function () {
               song: "From <333 (Spotify)"
             },
             {
-              url: "https://soundcloud.com/vgmplanet/folsense-1?in=vgmplanet/sets/professor-layton-and-the-diabolical-box-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-              answer: "Professor Layton and the Diabolical Box",
-              song: "Folsense"
-            },  
-            {
-              url: "https://soundcloud.com/vgmplanet/spark-mandrill?in=vgmplanet/sets/mega-man-x-ost",
-              answer: "Megaman X",
-              song: "Spark Mandrill"
-            },
-            {
-              url: "https://soundcloud.com/vgmplanet/eterna-forest?in=vgmplanet/sets/pokemon-diamond-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-              answer: "Pokemon Diamond/Pearl/Platinum",
-              song: "Eterna Forest"
-            },
-            {
-                url: "https://soundcloud.com/alexctba/theme-of-laura",
-                answer: "Silent Hill 2",
-                song: "Theme of Laura"
-            },
-            {
-                url: "https://soundcloud.com/vgmplanet/onett-theme",
-                answer: "EarthBound",
-                song: "Onett Theme"
-            },
-            {
-              url: "https://soundcloud.com/vgmplanet/underground-3?in=vgmplanet/sets/new-super-mario-bros-wii-ost",
-              answer: "New Super Mario Bros. Wii",
-              song: "Underground"
-            },
-            {
                 url: "https://soundcloud.com/melaniemartinezmusic/melanie-martinez-soap",
                 answer: "Melanie Martinez - Soap",
                 song: "From brain worms (Spotify)"
@@ -8894,49 +8864,9 @@ var app = (function () {
               song: "From brain worms (Spotify)"
             },
             {
-                url: "https://soundcloud.com/vgmplanet/16-guide-2?in=vgmplanet/sets/pokemon-red-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-                answer: "Pokemon Red/Blue/Yellow",
-                song: "Guide"
-            },
-            {
-              url: "https://soundcloud.com/vgmplanet/10-wood-man?in=vgmplanet/sets/mega-man-2-ost",
-              answer: "Mega Man 2",
-              song: "Wood Man"
-            },
-            {
-              url: "https://soundcloud.com/vgmplanet/mayas-theme-1?in=vgmplanet/sets/persona-2-eternal-punishment-ost",
-              answer: "Persona 2 Eternal Punishment",
-              song: "Maya's Theme"
-            },
-            {
-              url: "https://soundcloud.com/vgmplanet/steel-samurai?in=vgmplanet/sets/phoenix-wright-ace-attorney-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-              answer: "Phoenix Wright Ace Attorney",
-              song: "Steel Samurai"
-            },
-            {
-              url: "https://soundcloud.com/vgmplanet/flight-orchestra?in=vgmplanet/sets/panzer-dragoon-ost",
-                answer: "Panzer Dragoon",
-                song: "Flight (Orchestra)"
-            },
-            {
-              url: "https://soundcloud.com/user409121565/mario-kart-ds-ost-waluigi",
-              answer: "Mario Kart DS",
-              song: "Waluigi Pinball"
-            },
-            {
               url: "https://soundcloud.com/mitskiofficial/nobody",
               answer: "Mitski - Nobody",
               song: "From brain worms (Spotify)"
-            },
-            {
-                url: "https://soundcloud.com/vgmplanet/lumiose-city?in=vgmplanet/sets/pokemon-x-and-y-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-                answer: "Pokemon X/Y",
-                song: "Lumiose City"
-            },
-            {
-              url: "https://soundcloud.com/user-272592510/super-mario-rpg-legend-of-54",
-              answer: "Super Mario RPG: Legend of the Seven Stars",
-              song: "Fight against Koopa"
             },
             {
               url: "https://soundcloud.com/ashnikko/stupid-feat-yung-baby-tate",
@@ -8949,34 +8879,9 @@ var app = (function () {
               song: "From 🥴 (Spotify)"
             },
             {
-              url: "https://soundcloud.com/vgmplanet/01-professor-laytons-theme?in=vgmplanet/sets/professor-layton-and-the&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-              answer: "Professor Layton and the Curious Village",
-              song: "Professor Layton's Theme"
-            },
-            {
-              url: "https://soundcloud.com/vgmplanet/2-vow-of-revenge-opening-ii?in=vgmplanet/sets/ninja-gaiden-ost",
-              answer: "Ninja Gaiden",
-              song: "Vow of Revenge"
-            },
-            {
-              url: "https://soundcloud.com/vgmplanet/sets/mario-strikers-charged-ost?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-              answer: "Mario Strikers Charged",
-              song: "School Stage"
-            },
-            {
                 url: "https://soundcloud.com/fionaapple/criminal",
                 answer: "Fiona Apple - Criminal",
                 song: "From brain worms (Spotify)"
-            },
-            {
-              url: "https://soundcloud.com/vgmplanet/4-field-1-pollyanna-i-believe?in=vgmplanet/sets/mother-ost",
-              answer: "Mother",
-              song: "Pollyanna (I believe in you)"
-            },
-            {
-                url: "https://soundcloud.com/vgmplanet/kurain-village?in=vgmplanet/sets/phoenix-wright-ace-attorney-justice-for-all-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-                answer: "Ace Attorney Justice For All",
-                song: "Kurain Village"
             },
             {
               url: "https://soundcloud.com/vgmplanet/03-sector-1-srx-sr388?in=vgmplanet/sets/metroid-fusion-ost",

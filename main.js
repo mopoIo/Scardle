@@ -8799,7 +8799,7 @@ var app = (function () {
 	  "Chance The Rapper - Cocoa Butter Kisses (feat. Vic Mensa & Twista)",
 	  "You Know You Like It (DJ Snake Remix)",
 	  "Ruff Squad - Together (feat. Wiley)",
-	  "Wiley - Wearing My Rolex (Craig Prince & Paul Lawrence Remix)"
+	  "Wiley - Wearing My Rolex (Craig Prince & Paul Lawrence Remix)",
 	  "Alanis Morisette - Head over Feet - 2015 Remaster"
       ]),
       On = {

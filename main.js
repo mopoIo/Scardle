@@ -4041,7 +4041,7 @@ var app = (function () {
                 "flex flex-col justify-center items-center mb-6 mx-3"
               ),
               M(Y, "class", "flex justify-center items-center mb-3"),
-              M(T, "class", "bg-custom-highlight py-3 pb-5 mx-3 rounded-t-md");
+              M(T, "class", "");
           },
           m(e, y) {
             g(e, t, y), p(t, n), p(n, r), p(t, s), p(t, i);

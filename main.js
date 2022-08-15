@@ -708,7 +708,7 @@ var app = (function () {
               Q(a.$$.fragment),
               (l = x()),
               (u = w("h1")),
-              (u.textContent = "Video Game Heardle"),
+              (u.textContent = "Scardle"),
               (c = x()),
               (d = w("div")),
               Q(h.$$.fragment),
@@ -3640,7 +3640,7 @@ var app = (function () {
         c() {
           (n = w("div")),
             (n.innerHTML =
-              '<p class="mb-3">A clone of <a href="https://www.heardle.app/" title="Heardle">Heardle</a>, and <a href="https://heardle-kpop.glitch.me/" title="Heardle">K-Pop Heardle</a>, and <a href="https://anime-heardle.glitch.me/" title="Heardle">Anime Heardle</a> but for Video Game songs.</p> \n\n<p class="mb-3">The music is chosen from songs I recognise so may be easy :).</p> \n\n<p class="mb-3"> Thanks for playing!</p> \n\n\n\n<p class="text-xs mb-3 text-custom-line">Prepared with <a href="https://developers.soundcloud.com">Soundcloud</a>,\n    <a href="https://svelte.dev">Svelte</a>,\n    <a href="https://tailwindcss.com">Tailwind</a>,\n    <a href="https://fonts.google.com/noto/specimen/Noto+Serif+Display">Noto Serif Display</a>, <a href="https://fonts.google.com/noto/specimen/Noto+Sans">Noto Sans</a>,\n    <a href="https://iconsvg.xyz">IconSVG</a>, <a href="https://momentjs.com">momentjs</a>,\n    <a href="https://tarekraafat.github.io/autoComplete.js/#/">autocomplete.js</a>, and powered by <a href="https://glitch.com/">Glitch</a>.         <a href="https://omakase.studio" title="Studio Omakase">Served omakase / お任せ</a>. Video Game version made by inspectredc :)'),
+              '<p class="mb-3">A <a href="https://www.heardle.app/" title="Heardle">Heardle</a> clone made with love for Scarlett <3 </p> \n\n<p class="mb-3">All the songs belong to Scarlett‘s playlists.</p> \n\n<p class="mb-3"> Thanks for playing!</p>'),
             M(n, "class", "text");
         },
         m(e, t) {
@@ -3856,7 +3856,7 @@ var app = (function () {
               (r = x()),
               (s = w("p")),
               (s.innerHTML =
-                '<p class="mb-3">If you\'ve enjoyed playing Video Game Heardle, then please consider supporting the <a href="https://ko-fi.com/heardle">real Heardle devs</a> as this project is based on their work.</p>'),
+                '<p class="mb-3">If you\'ve enjoyed playing Scardle, then please consider supporting the <a href="https://ko-fi.com/heardle">real Heardle devs</a> as this project is based on their work.</p>'),
               (i = x()),
               (o = w("div")),
               Q(a.$$.fragment),
@@ -4036,14 +4036,14 @@ var app = (function () {
               (f = w("div")),
               (m = w("div")),
               (k = w("div")),
-              (k.textContent = "Next Video Game song in:"),
+              (k.textContent = "Next Scardle song in:"),
               (b = x()),
               Q(S.$$.fragment),
               (D = x()),
               (T = w("div")),
               (Y = w("div")),
               (Y.innerHTML =
-                '<span class="text-custom-negative"><svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="currentColor" stroke="" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"></path></svg></span> \n                <span class="px-1">Video Game Heardle?</span>'),
+                '<span class="text-custom-negative"><svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="currentColor" stroke="" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"></path></svg></span> \n                <span class="px-1">S Heardle?</span>'),
               (C = x()),
               Q(O.$$.fragment),
               M(n, "class", "text-lg text-custom-line"),
@@ -4253,7 +4253,7 @@ var app = (function () {
         s = (e[0].length * e[1].attemptInterval) / 1e3 + "";
       return {
         c() {
-          (t = _("You got today's Video Game Heardle within the first ")),
+          (t = _("You got today's Scardle within the first ")),
             (n = _(s)),
             (r = _(" seconds."));
         },
@@ -4280,7 +4280,7 @@ var app = (function () {
         a = e[1].attemptIntervalAlt[e[0].length - 1] / 1e3 > 1 ? "s" : "";
       return {
         c() {
-          (t = _("You got today's Video Game Heardle within ")),
+          (t = _("You got today's Scardle within ")),
             (n = _(o)),
             (r = _("\n                second")),
             (s = _(a)),
@@ -4310,7 +4310,7 @@ var app = (function () {
       let n;
       return {
         c() {
-          n = _("You didn't get today's Video Game Heardle. Better luck tomorrow!");
+          n = _("You didn't get today's Scardle. You suck!");
         },
         m(e, t) {
           g(e, n, t);
@@ -4450,7 +4450,7 @@ var app = (function () {
           u,
           c,
           () => {
-            let e = "Video Game Heardle #" + (s.id + 1),
+            let e = "Scardle #" + (s.id + 1),
               t = "";
             a
               ? r.length < i.maxAttempts / 3
@@ -4467,7 +4467,7 @@ var app = (function () {
                   ? (t += "⬛️")
                   : (t += "🟥")
                 : (t += "⬜️");
-            let o = e + "\n\n" + t + /*"\n\nhttps://inspectredc.github.io/\n"*/"\n";
+            let o = e + "\n\n" + t + /*"\n\nhttps://scardle.mopo.lol/\n"*/"\n";
             if (
               !navigator.share ||
               !/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(
@@ -4553,7 +4553,7 @@ var app = (function () {
             (t = w("div")),
               (n = w("div")),
               (n.innerHTML =
-                '<div class="mr-4 w-8 text-custom-line"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="h-7 w-7"><circle cx="5.5" cy="17.5" r="2.5"></circle><circle cx="17.5" cy="15.5" r="2.5"></circle><path d="M8 17V5l12-2v12"></path></svg></div> \n        <div><p>Listen to the intro, then find the correct Video Game song in the list.</p></div>'),
+                '<div class="mr-4 w-8 text-custom-line"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="h-7 w-7"><circle cx="5.5" cy="17.5" r="2.5"></circle><circle cx="17.5" cy="15.5" r="2.5"></circle><path d="M8 17V5l12-2v12"></path></svg></div> \n        <div><p>Listen to the intro, then find the correct Scarlett song in the list.</p></div>'),
               (r = x()),
               (s = w("div")),
               (s.innerHTML =
@@ -9236,12 +9236,12 @@ var app = (function () {
             Q(Y.$$.fragment),
             (C = x()),
             H && H.c(),
-            (An.title = "Video Game Heardle"),
+            (An.title = "Scardle"),
             M(t, "name", "description"),
             M(
               t,
               "content",
-              "Guess the Video Game song from the intro in as few tries as possible"
+              "That Scarlett song guessing game"
             ),
             M(n, "rel", "apple-touch-icon"),
             M(n, "sizes", "180x180"),

@@ -4031,7 +4031,7 @@ var app = (function () {
               (T = w("div")),
               (Y = w("div")),
               (Y.innerHTML =
-                '<span class="kofitext svelte-1d3p4dy"><img src="https://media.discordapp.net/attachments/586437683153338396/1002685543286583436/ezgif-1-e59a385961.gif" alt="Ko-fi donations" class="kofiimg mr-2 mb-1 svelte-1d3p4dy"/>'),
+                '<span class="kofitext svelte-1d3p4dy"><img src="https://i.mopo.lol/cCcsK.gif " alt="scarlyPls" class="kofiimg mr-2 mb-1 svelte-1d3p4dy"/>'),
               (C = x()),
               Q(O.$$.fragment),
               M(n, "class", "text-lg text-custom-line"),

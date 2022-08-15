@@ -4031,7 +4031,7 @@ var app = (function () {
               (T = w("div")),
               (Y = w("div")),
               (Y.innerHTML =
-                '<span class="kofitext svelte-1d3p4dy"><img src="https://storage.ko-fi.com/cdn/cup-border.png" alt="Ko-fi donations" class="kofiimg mr-2 mb-1 svelte-1d3p4dy"/>Support the Heardle devs on Ko-Fi</span><svg xmlns="http://www.w3.org/2000/svg" class="ml-2" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h13M12 5l7 7-7 7"></path></svg>'),
+                '<span class="kofitext svelte-1d3p4dy"><img src="https://media.discordapp.net/attachments/586437683153338396/1002685543286583436/ezgif-1-e59a385961.gif" alt="Ko-fi donations" class="kofiimg mr-2 mb-1 svelte-1d3p4dy"/>'),
               (C = x()),
               Q(O.$$.fragment),
               M(n, "class", "text-lg text-custom-line"),

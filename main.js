@@ -328,6 +328,11 @@ var app = (function () {
         c() {
           (t = w("button")),
             o && o.c(),
+            M(
+              t,
+              "class",
+              "px-2 py-2 uppercase tracking-widest bg-custom-mg border-none flex items-center font-semibold text-sm svelte-1r54uzk"
+            ),
             Y(t, "bg-custom-positive", e[0]),
             Y(t, "bg-custom-mg", e[1]);
         },
@@ -563,11 +568,6 @@ var app = (function () {
         c() {
           (t = k("svg")),
             (n = k("path")),
-            M(
-              n,
-              "d",
-              "M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"
-            ),
             M(t, "xmlns", "http://www.w3.org/2000/svg"),
             M(t, "width", "24"),
             M(t, "height", "24"),

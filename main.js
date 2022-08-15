@@ -3640,7 +3640,7 @@ var app = (function () {
         c() {
           (n = w("div")),
             (n.innerHTML =
-              '<p class="mb-3">A <a href="https://www.heardle.app/" title="Heardle">Heardle</a> clone made with love for Scarlett <3 </p> \n\n<p class="mb-3">All the songs belong to Scarlett‘s playlists.</p> \n\n<p class="mb-3"> Thanks for playing!</p>'),
+              '<p class="mb-3">A <a href="https://www.heardle.app/" title="Heardle">Heardle</a> clone made for Scarlett with love from Gabriel <3 </p> \n\n<p class="mb-3">All the songs belong to Scarlett‘s playlists.</p> \n\n<p class="mb-3"> Thanks for playing!</p>'),
             M(n, "class", "text");
         },
         m(e, t) {
@@ -3909,11 +3909,11 @@ var app = (function () {
         startDate: "2022-04-09",
       },
       Jt = [
-        "Try using more gamer words", // FAILED
-        "So you're the guy who listens to the songs rather than playing the game", // First try
+        "Better luck next time bozo", // FAILED
+        "SLAY", // First try
         "A classic game, a classic tune",
         "Only iron players have taken this many guesses",
-        "You must not have played this game",
+        "You got me scared for a second",
         "Took you long enough",
         "The song must have looped by this point", // Sixth try
       ];
@@ -8619,7 +8619,7 @@ var app = (function () {
       "Metroid Prime",
       "Pokemon X/Y",
       "Super Mario RPG: Legend of the Seven Stars",
-      "Mario Kart: Super Circuit",
+      "STUPID (feat. Yung Baby Tate)",
       "Mike Tyson's Punch-Out!!",
       "Professor Layton and the Curious Village",
       "Ninja Gaiden",
@@ -8845,9 +8845,9 @@ var app = (function () {
               song: "Fight against Koopa"
             },
             {
-              url: "https://soundcloud.com/vgmplanet/08-shy-guy-beach-cheep-cheep?in=vgmplanet/sets/mario-kart-super-circuit-ost",
-              answer: "Mario Kart: Super Circuit",
-              song: "Shy Guy Beach/Cheep-Cheep Island"
+              url: "https://soundcloud.com/ashnikko/stupid-feat-yung-baby-tate",
+              answer: "STUPID (feat. Yung Baby Tate)",
+              song: "Ashnikko, Yung Baby Tate"
             },
             {
               url: "https://soundcloud.com/vgmplanet/18-warming-up-with-doc?in=vgmplanet/sets/mike-tysons-punch-out-ost",

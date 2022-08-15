@@ -3659,38 +3659,6 @@ var app = (function () {
         super(), re(this, e, null, Nt, i, {});
       }
     }
-    function It(t) {
-      let n, r, s, i;
-      return {
-        c() {
-          (n = w("div")),
-            (r = w("a")),
-            (r.innerHTML =
-              '<span class="kofitext svelte-1d3p4dy"><img src="https://storage.ko-fi.com/cdn/cup-border.png" alt="Ko-fi donations" class="kofiimg mr-2 mb-1 svelte-1d3p4dy"/>Support the Heardle devs on Ko-Fi</span><svg xmlns="http://www.w3.org/2000/svg" class="ml-2" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h13M12 5l7 7-7 7"></path></svg>'),
-            M(
-              r,
-              "class",
-              "kofi-button py-2 px-3 rounded-lg items-center flex  svelte-1d3p4dy"
-            ),
-            M(r, "href", "https://ko-fi.com/heardle"),
-            M(r, "title", "Support the Heardle devs on Ko-Fi"),
-            M(
-              n,
-              "class",
-              "text-center flex justify-center items-center flex-col "
-            );
-        },
-        m(e, o) {
-          g(e, n, o), p(n, r), s || ((i = S(r, "click", t[0])), (s = !0));
-        },
-        p: e,
-        i: e,
-        o: e,
-        d(e) {
-          e && y(n), (s = !1), i();
-        },
-      };
-    }
     function Wt(e) {
       return [
         () => {
@@ -3913,9 +3881,9 @@ var app = (function () {
         "SLAY!!!", // First try
         "Not on your first try, so bad!",
         "I know that one!",
-        "You got me scared for a second",
-        "Took you long enough",
-        "The song must have looped by this point", // Sixth try
+        "You got me scared for a second!",
+        "Took you long enough!",
+        "The song must have looped by this point!", // Sixth try
       ];
     function Kt(t) {
       let n, r;
@@ -4042,8 +4010,6 @@ var app = (function () {
               (D = x()),
               (T = w("div")),
               (Y = w("div")),
-              (Y.innerHTML =
-                '<span class="text-custom-negative"><svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="currentColor" stroke="" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"></path></svg></span> \n                <span class="px-1">S Heardle?</span>'),
               (C = x()),
               Q(O.$$.fragment),
               M(n, "class", "text-lg text-custom-line"),

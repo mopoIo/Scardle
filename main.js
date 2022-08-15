@@ -328,11 +328,6 @@ var app = (function () {
         c() {
           (t = w("button")),
             o && o.c(),
-            M(
-              t,
-              "class",
-              "px-2 py-2 uppercase tracking-widest bg-custom-mg border-none flex items-center font-semibold text-sm svelte-1r54uzk"
-            ),
             Y(t, "bg-custom-positive", e[0]),
             Y(t, "bg-custom-mg", e[1]);
         },
@@ -3640,7 +3635,7 @@ var app = (function () {
         c() {
           (n = w("div")),
             (n.innerHTML =
-              '<p class="mb-3">A <a href="https://www.heardle.app/" title="Heardle">Heardle</a> clone made for Scarlett with love from Gabriel <3 </p> \n\n<p class="mb-3">All the songs belong to Scarlett‘s playlists.</p> \n\n<p class="mb-3"> Thanks for playing!</p>'),
+              '<p class="mb-3">A <a href="https://www.heardle.app/" title="Heardle">Heardle</a> clone made for Scarlett with love from Gabriel <3 </p> \n\n<p class="mb-3">All the songs belong to Scarlett‘s playlists.</p> \n\n<p class="mb-3"> Thanks for playing! x</p>'),
             M(n, "class", "text");
         },
         m(e, t) {

@@ -825,9 +825,9 @@ a:active {
     --color-positive: #52BE80;
     --color-negative: #ff0000;
     --color-fg: #ffffff;
-    --color-mg: #444;
+    --color-mg: #8d97fc;
     --color-bg: #121212;
-    --color-line: #8d97fc;
+    --color-line: #888;
     --color-shade: rgba(0, 0, 0, 0.1);
     --color-highlight: rgba(255, 255, 255, 0.05)
 }

@@ -8603,7 +8603,7 @@ var app = (function () {
       "Pokemon X/Y",
       "Super Mario RPG: Legend of the Seven Stars",
       "Ashnikko - STUPID (feat. Yung Baby Tate)",
-      "Mike Tyson's Punch-Out!!",
+      "Rihanna - Kiss It Better",
       "Professor Layton and the Curious Village",
       "Ninja Gaiden",
       "Mario Strikers Charged",
@@ -8830,12 +8830,12 @@ var app = (function () {
             {
               url: "https://soundcloud.com/ashnikko/stupid-feat-yung-baby-tate",
               answer: "Ashnikko - STUPID (feat. Yung Baby Tate)",
-              song: "Found in IIABTITBB"
+              song: "From IIABTITBB (Spotify)"
             },
             {
-              url: "https://soundcloud.com/vgmplanet/18-warming-up-with-doc?in=vgmplanet/sets/mike-tysons-punch-out-ost",
-              answer: "Mike Tyson's Punch-Out!!",
-              song: "Warming Up With Doc"
+              url: "https://soundcloud.com/rihanna/kiss-it-better-1",
+              answer: "Rihanna - Kiss It Better",
+              song: "From 🥴 (Spotify)"
             },
             {
               url: "https://soundcloud.com/vgmplanet/01-professor-laytons-theme?in=vgmplanet/sets/professor-layton-and-the&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",

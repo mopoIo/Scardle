@@ -4026,7 +4026,7 @@ var app = (function () {
               (T = w("div")),
               (Y = w("div")),
               (Y.innerHTML =
-                '<span class="kofitext svelte-1d3p4dy"><img src="https://i.mopo.lol/cCcsK.gif " alt="scarlyPls" class="kofiimg mr-2 mb-1 svelte-1d3p4dy"/>'),
+                '<span class="kofitext svelte-1d3p4dy"><img src="https://mopo.lol/ND-scarlyPls.gif " alt="scarlyPls" class="kofiimg mr-2 mb-1 svelte-1d3p4dy"/>'),
               (C = x()),
               Q(O.$$.fragment),
               M(n, "class", "text-lg text-custom-line"),

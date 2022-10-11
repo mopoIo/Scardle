@@ -3635,7 +3635,7 @@ var app = (function () {
         c() {
           (n = w("div")),
             (n.innerHTML =
-              '<p class="mb-3">A <a href="https://www.heardle.app/" title="Heardle">Heardle</a> clone made for Scarlett with love from Gabriel <3 </p> \n\n<p class="mb-3">All the songs belong to Scarlett‘s playlists.</p> \n\n<p class="mb-3"> Thanks for playing! x</p>'),
+              '<p class="mb-3">A <a href="https://www.heardle.app/" title="Heardle">Heardle</a> clone made by Gabriel with 💜 </p> \n\n<p class="mb-3">All the songs belong to Scarlett‘s playlists.</p> \n\n<p class="mb-3"> Thanks for playing! x</p>'),
             M(n, "class", "text");
         },
         m(e, t) {

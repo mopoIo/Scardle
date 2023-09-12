@@ -8723,7 +8723,7 @@ var app = (function () {
 	  "The Pretty Reckless - Make Me Wanna Die",
 	  "Fiona Apple - I Want You To Love Me",
 	  "girl in red - hornylovesickmess",
-	  "Alanis Morisette - Head over Feet - 2015 Remaster"                                              //From sad boy hours (Spotify)
+	  "Alanis Morisette - Head over Feet - 2015 Remaster",                                              //From sad boy hours (Spotify)
 	  "awfultune - Maggot Belly", //
 	  "awfultune - MINE",
 	  "Regina Spektor - Hero",
@@ -8800,7 +8800,7 @@ var app = (function () {
 	  "You Know You Like It (DJ Snake Remix)",
 	  "Ruff Squad - Together (feat. Wiley)",
 	  "Wiley - Wearing My Rolex (Craig Prince & Paul Lawrence Remix)",   //other
-	  "Cavetown - Juliet",
+	  "Cavetown - Juliet"
       ]),
       On = {
         subscribe: ue(
